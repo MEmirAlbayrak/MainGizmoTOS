@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainGizmoTOS", "MainGizmoTOS\MainGizmoTOS.csproj", "{CAEDA4F0-1036-4289-ACD0-8747572E5CDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAEDA4F0-1036-4289-ACD0-8747572E5CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAEDA4F0-1036-4289-ACD0-8747572E5CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAEDA4F0-1036-4289-ACD0-8747572E5CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAEDA4F0-1036-4289-ACD0-8747572E5CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB76978A-C262-40F7-9F1B-C945BB9D7A8D}
+	EndGlobalSection
+EndGlobal
